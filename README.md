@@ -1,2 +1,2 @@
 # Hello-World
-just another repository
+// Hi. I'm Brittany, and I'm interested in programming for the real world.
